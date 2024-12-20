@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         //test
         //test
+        System.out.println("코딩 테스트");
         
     }
 }
