@@ -10,10 +10,7 @@ public class HelloWorld {
         
         System.out.println("Hello, World2!");
         
-        System.out.println("니가 수정 할줄 몰랐다");
-        System.out.println("니가 수정 할줄 몰랐다");
-        System.out.println("니가 수정 할줄 몰랐다");
-        
+              
         
         
     }
